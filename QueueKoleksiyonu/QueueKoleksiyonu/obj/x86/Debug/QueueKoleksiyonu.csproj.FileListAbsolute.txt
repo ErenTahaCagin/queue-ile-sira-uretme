@@ -1,0 +1,7 @@
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\bin\Debug\QueueKoleksiyonu.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\bin\Debug\QueueKoleksiyonu.pdb
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\obj\x86\Debug\QueueKoleksiyonu.Form1.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\obj\x86\Debug\QueueKoleksiyonu.Properties.Resources.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\obj\x86\Debug\QueueKoleksiyonu.csproj.GenerateResource.Cache
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\obj\x86\Debug\QueueKoleksiyonu.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\QueueKoleksiyonu\QueueKoleksiyonu\obj\x86\Debug\QueueKoleksiyonu.pdb
